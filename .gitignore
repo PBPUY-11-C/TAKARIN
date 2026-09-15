@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 .venv/
+env/
+venv/
 
 # Django
 db.sqlite3
@@ -9,5 +11,5 @@ media/
 staticfiles/
 
 # Environment and editor files
-.env
+.env*
 .vscode/
